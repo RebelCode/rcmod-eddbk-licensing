@@ -98,6 +98,15 @@ class EddBkLicensingModule extends AbstractBaseModule
         if ($c === null) {
             return;
         }
+
+        if (\is_admin()) {
+            /*
+             * Retrieving the license from the container instantiates it.
+             * Unfortunately, upon construction it registers all the necessary hooks
+             * So this is enough to initialize the "licensing" for EDDBK.
+             */
+            $c->get('eddbk_license');
+        }
     }
 
     /**
