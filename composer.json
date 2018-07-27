@@ -41,13 +41,13 @@
                 "type": "library",
                 "version": "1.6.14",
                 "dist": {
-                    "url": "https://github.com/easydigitaldownloads/EDD-License-handler/archive/master.zip",
+                    "url": "https://github.com/easydigitaldownloads/EDD-License-handler/archive/26120919e6870d8d50c0b087ed66257491a062a5.zip",
                     "type": "zip"
                 },
                 "source": {
                     "url": "https://github.com/easydigitaldownloads/EDD-License-handler",
                     "type": "git",
-                    "reference": "master"
+                    "reference": "26120919e6870d8d50c0b087ed66257491a062a5"
                 },
                 "autoload": {
                     "classmap": [

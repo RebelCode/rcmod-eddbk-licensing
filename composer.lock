@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "29e0a45a7aa8d83f5868b341287713c9",
+    "content-hash": "b2660fa7ec084178a9c7b3dd894b6cf0",
     "packages": [
         {
             "name": "dhii/args-list-validation",
@@ -1759,12 +1759,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/easydigitaldownloads/EDD-License-handler",
-                "reference": "master"
+                "reference": "4c1eecdda09fd0a81836544bbf405237d4afce3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/easydigitaldownloads/EDD-License-handler/archive/master.zip",
-                "reference": null,
+                "url": "https://github.com/easydigitaldownloads/EDD-License-handler/archive/26120919e6870d8d50c0b087ed66257491a062a5.zip",
+                "reference": "4c1eecdda09fd0a81836544bbf405237d4afce3b",
                 "shasum": null
             },
             "type": "library",
